@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Fullangel
+I'm from Venezuela and i have 22 years
+- 👀 I’m interested in ...
+Actually in programation web
+- 🌱 I’m currently learning ...
+Actually learning React
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Fullangel/Fullangel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
