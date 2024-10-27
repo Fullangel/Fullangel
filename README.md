@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 Actualmente estoy trabajando en **React, Nodejs, Mysql, Nextjs**
 
-- 🌱 Actualmente estoy aprendiendo más de **React, Nodejs**
+- 🌱 Actualmente estoy aprendiendo más de **React Native**
 
 - 📫 No dudes en ponerte en contacto conmigo **99angelv99@gmail.com**
 
